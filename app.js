@@ -26,3 +26,6 @@ function searchBinary(n) {
         }
     }
 }
+
+let result = searchBinary(n);
+console.log(result)
